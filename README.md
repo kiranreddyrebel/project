@@ -2,6 +2,8 @@
 
 Thank you for visiting this link. My name is "U.Kiran vas Reddy" and these are snapshots of my project did in my Academics ( Cotton University, Guwahati ).
 
+If you liked the idea and if you have any suggestion to improve then please do leave a reply in issue section. 
+
 
 # Main page
 
